@@ -1,16 +1,15 @@
 # Doxbin
-This is a copy of the popular site [doxbin.org](https://doxbin.org) meant for releasing doxxes.
+github version of doxbin
 
-# Stack
-It's written in what I call the old-school MEVN stack (MySQL, Express.js, Vue.js, Node.js).
+# cr
+ybiq
 
 
 # Deployment
-Everything has already been dockerized so it's just starting up the containers.
-Note: You do have to change API endpoint in frontend.
+GitHub
 
-# Structure
-![Structure](https://github.com/justvmexit/doxbin/blob/main/images/structure.png)
+# Bitcjes
+0
 
 # Contact
-If you would like to get in contact with me please do it over [twitter](https://twitter.com/justvmexit)
+If you would like to get in contact with me please do it over [pornhub](https://pornhub.com/dryhump)
